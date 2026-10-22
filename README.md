@@ -95,11 +95,14 @@ npm run dev
 ```
 
 ### Backend
-Il progetto utilizza un backend fornito da Boolean per la gestione delle API REST.
+
+Il progetto utilizza un backend REST API originariamente fornito da **Boolean**, successivamente aggiornato nelle dipendenze e adattato per garantirne la compatibilità.
 
 ```bash
-git clone https://github.com/boolean-it/react-task-manager-back
+git clone https://github.com/Damiana-Arangio/react-task-manager-back.git
 cd react-task-manager-back
 npm install
-npm run start
+npm start
 ```
+
+Repository originale: [Boolean – React Task Manager Backend](https://github.com/boolean-it/react-task-manager-back).
